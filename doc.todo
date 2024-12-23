@@ -1,0 +1,17 @@
+Neccesarry Libraries installing on Machine
+
+--> pip install pandas
+--> pip install numpy
+--> pip install matplotlib
+--> pip install scikit-learn
+--> pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+Anaconda Installation Process:
+Create A Conda Environment and cofigures to activate the Environment ( Anaconda Navigator)
+--> conda create -n yolo_env python=3.8
+--> conda activate yolo_env
+
+
+Runnning on Jupyter Note 
+--> jupyter create
